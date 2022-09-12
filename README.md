@@ -15,7 +15,7 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 $ yarn watch # npm run watch
 ```
 
-## About Scrimba
+## About my Journey
 
 My goal is become a Frontend Developer and work for foreign Company🚀 Today I did it a modal exercise in Javascript with scrimba.
 
